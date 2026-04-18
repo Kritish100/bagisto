@@ -132,9 +132,9 @@ return [
 
         'core' => [
             'channels' => [
-                'meta-description' => 'Demo store meta description',
-                'meta-keywords' => 'Demo store meta keyword',
-                'meta-title' => 'Demo store',
+                'meta-description' => 'Prativa Hasktakala meta description',
+                'meta-keywords' => 'Prativa Hasktakala meta keyword',
+                'meta-title' => 'Prativa Hasktakala',
                 'name' => 'Default',
             ],
 
