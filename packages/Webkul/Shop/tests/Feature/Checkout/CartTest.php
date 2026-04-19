@@ -2858,7 +2858,7 @@ it('should check including tax rate when add a product to the cart based on ship
         'channel_code' => 'default',
     ])->create([
         'code' => 'sales.shipping.origin.store_name',
-        'value' => 'Prativa Hasktakala',
+        'value' => 'DEMO STORE',
         'channel_code' => 'default',
     ])->create([
         'code' => 'sales.shipping.origin.contact',
@@ -3167,7 +3167,7 @@ it('should check excluding tax rate when add a product to the cart based on ship
         'channel_code' => 'default',
     ])->create([
         'code' => 'sales.shipping.origin.store_name',
-        'value' => 'Prativa Hasktakala',
+        'value' => 'DEMO STORE',
         'channel_code' => 'default',
     ])->create([
         'code' => 'sales.shipping.origin.contact',
