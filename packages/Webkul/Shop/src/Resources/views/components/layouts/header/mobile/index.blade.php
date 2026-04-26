@@ -23,7 +23,6 @@
 
             <a
                 href="{{ route('shop.home.index') }}"
-                class="max-h-[30px]"
                 aria-label="@lang('shop::app.components.layouts.header.mobile.bagisto')"
             >
                 <img
