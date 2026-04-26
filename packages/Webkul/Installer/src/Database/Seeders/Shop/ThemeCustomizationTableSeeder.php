@@ -166,7 +166,7 @@ class ThemeCustomizationTableSeeder extends Seeder
 
                         'options' => json_encode([
                             'html' => '<div class="top-collection-container">
-                                <div class="top-collection-header">
+                                <div class="top-collection-header text-navyBlue">
                                     <h2>'.trans('installer::app.seeders.shop.theme-customizations.top-collections.content.title', [], $locale).'</h2>
                                 </div>
 
