@@ -24,7 +24,7 @@
 
         <div style="display: grid;grid-template-columns: repeat(2, 1fr);gap: 12px;margin-bottom: 24px;">
             @foreach($admin->two_factor_backup_codes as $code)
-                <div style="background: #F8F9FA;border: 2px solid #060C3B;border-radius: 4px;padding: 12px;text-align: center;font-family: monospace;font-size: 16px;font-weight: bold;color: #060C3B;">
+                <div style="background: #F8F9FA;border: 2px solid #BF472C;border-radius: 4px;padding: 12px;text-align: center;font-family: monospace;font-size: 16px;font-weight: bold;color: #BF472C;">
                     {{ $code }}
                 </div>
             @endforeach
