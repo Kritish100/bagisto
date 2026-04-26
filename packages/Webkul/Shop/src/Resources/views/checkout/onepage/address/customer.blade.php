@@ -110,7 +110,7 @@
                                     tabindex="0"
                                 >
                                     <span
-                                        class="icon-plus rounded-full border border-black p-2.5 text-3xl max-sm:p-2"
+                                        class="icon-plus rounded-full border border-navyBlue p-2.5 text-3xl max-sm:p-2"
                                         role="presentation"
                                     ></span>
 
@@ -230,7 +230,7 @@
                                             tabindex="0"
                                         >
                                             <span
-                                                class="icon-plus rounded-full border border-black p-2.5 text-3xl max-sm:p-2"
+                                                class="icon-plus rounded-full border border-navyBlue p-2.5 text-3xl max-sm:p-2"
                                                 role="presentation"
                                             ></span>
 
