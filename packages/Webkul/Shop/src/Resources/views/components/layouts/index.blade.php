@@ -12,6 +12,16 @@
 >
     <head>
 
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-Y3Z2YL17XR"></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-Y3Z2YL17XR');
+        </script>
+
         {!! view_render_event('bagisto.shop.layout.head.before') !!}
 
         <title>{{ $title ?? '' }}</title>
@@ -91,6 +101,8 @@
         {!! view_render_event('bagisto.shop.layout.head.after') !!}
 
     </head>
+
+    
 
     <body>
         {!! view_render_event('bagisto.shop.layout.body.before') !!}
